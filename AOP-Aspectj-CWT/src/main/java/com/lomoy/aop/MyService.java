@@ -1,11 +1,9 @@
 package com.lomoy.aop;
 
-//import org.springframework.aop.framework.AopContext;
 import org.springframework.stereotype.Service;
 
 @Service
 public class MyService {
-
 
     @MyLog(myData="VC test")
     public void publicMethodA(){
