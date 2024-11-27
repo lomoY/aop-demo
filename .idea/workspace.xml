@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72563005-b53c-4203-82b6-66465a2fa973" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CWT/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/java/com/lomoy/aop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/java/com/lomoy/aop/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/java/com/lomoy/aop/MyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/java/com/lomoy/aop/MyService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
