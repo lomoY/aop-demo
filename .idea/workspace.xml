@@ -5,8 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72563005-b53c-4203-82b6-66465a2fa973" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/java/com/lomoy/aop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/java/com/lomoy/aop/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/java/com/lomoy/aop/MyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/java/com/lomoy/aop/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AOP-Aspectj-LTW/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AOP-Aspectj-LTW/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AOP-Aspectj-LTW/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/java/com/lomoy/aop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/src/main/java/com/lomoy/aop/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/java/com/lomoy/aop/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/src/main/java/com/lomoy/aop/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/java/com/lomoy/aop/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/src/main/java/com/lomoy/aop/MyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/java/com/lomoy/aop/MyLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/src/main/java/com/lomoy/aop/MyLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/java/com/lomoy/aop/MyLogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/src/main/java/com/lomoy/aop/MyLogAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/java/com/lomoy/aop/MyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/src/main/java/com/lomoy/aop/MyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/java/com/lomoy/aop/MyStaticClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/src/main/java/com/lomoy/aop/MyStaticClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/resources/META-INF/aop.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/src/main/resources/META-INF/aop.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/resources/META-INF/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/src/main/resources/META-INF/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/target/classes/META-INF/aop.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/META-INF/aop.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/target/classes/META-INF/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/META-INF/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/target/classes/builddef.lst" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/builddef.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/target/classes/com/lomoy/aop/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/com/lomoy/aop/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/target/classes/com/lomoy/aop/MyConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/com/lomoy/aop/MyConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/target/classes/com/lomoy/aop/MyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/com/lomoy/aop/MyController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/target/classes/com/lomoy/aop/MyLog.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/com/lomoy/aop/MyLog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/target/classes/com/lomoy/aop/MyLogAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/com/lomoy/aop/MyLogAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/target/classes/com/lomoy/aop/MyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/com/lomoy/aop/MyService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/target/classes/com/lomoy/aop/MyStaticClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/com/lomoy/aop/MyStaticClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/target/my-aop-2.6.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/my-aop-2.6.3.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +83,10 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lomoy.aop.Main" />
-      <module name="AOP-Aspectj-CWT" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AOP-Aspectj-CWT" />
+      <module name="AOP-Aspectj-CTW" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.lomoy.aop.*" />
@@ -68,9 +97,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All in AOP-Aspectj-CTW" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AOP-Aspectj-CTW" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.All in AOP-Aspectj-CTW" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.All in AOP-Aspectj-CTW" />
       </list>
     </recent_temporary>
   </component>
