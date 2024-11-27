@@ -5,36 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72563005-b53c-4203-82b6-66465a2fa973" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOP-Aspectj-CWT/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/java/com/lomoy/aop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/java/com/lomoy/aop/MyLogAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/java/com/lomoy/aop/MyService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aop-demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CWT/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/src/main/java/com/lomoy/aop/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/src/main/java/com/lomoy/aop/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/java/com/lomoy/aop/MyConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/src/main/java/com/lomoy/aop/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/java/com/lomoy/aop/MyController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/src/main/java/com/lomoy/aop/MyLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/java/com/lomoy/aop/MyLog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/src/main/java/com/lomoy/aop/MyLogAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/src/main/java/com/lomoy/aop/MyService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/src/main/java/com/lomoy/aop/MyStaticClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/java/com/lomoy/aop/MyStaticClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/src/main/resources/META-INF/aop.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/resources/META-INF/aop.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/src/main/resources/META-INF/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CWT/src/main/resources/META-INF/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/target/classes/META-INF/aop.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/target/classes/META-INF/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/target/classes/com/lomoy/aop/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/target/classes/com/lomoy/aop/MyConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/target/classes/com/lomoy/aop/MyController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/target/classes/com/lomoy/aop/MyLog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/target/classes/com/lomoy/aop/MyLogAspect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/target/classes/com/lomoy/aop/MyService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/target/classes/com/lomoy/aop/MyStaticClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CWT/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CWT/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
