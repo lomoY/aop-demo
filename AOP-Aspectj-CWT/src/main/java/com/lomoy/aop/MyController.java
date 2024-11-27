@@ -12,7 +12,6 @@ public class MyController {
     @MyLog(myData="VC test")
     @GetMapping("/users")
     public String getUsers(String id){
-//        System.out.println("this is code.MyController's getUsers method " + id);
         myService.publicMethodA();
         return id;
     }
