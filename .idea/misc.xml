@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/AOP-Aspectj-CWT/pom.xml" />
         <option value="$PROJECT_DIR$/AOP-Aspectj-LTW/pom.xml" />
+        <option value="$PROJECT_DIR$/AOP-Aspectj-CTW/pom.xml" />
       </list>
     </option>
   </component>

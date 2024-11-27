@@ -7,14 +7,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="AOP-Aspectj-CTW" />
         <module name="AOP-Aspectj-LTW" />
+        <module name="my-aop" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AOP-Aspectj-CTW" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="AOP-Aspectj-CTW" options="-parameters" />
+      <module name="AOP-Aspectj-LTW" options="-parameters" />
+      <module name="my-aop" options="-parameters" />
     </option>
   </component>
 </project>
