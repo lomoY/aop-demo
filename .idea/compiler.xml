@@ -7,18 +7,27 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="AOP-Aspectj-LTW" />
+      </profile>
+      <profile name="Annotation profile for AOP Maven Webapp" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar" />
+        </processorPath>
         <module name="my-aop" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="AOP-Aspectj-CTW" target="1.8" />
+      <module name="AOP-AspectJ-LTW-Prog" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="AOP-AspectJ-LTW-Prog" options="-parameters" />
       <module name="AOP-Aspectj-CTW" options="-parameters" />
-      <module name="AOP-Aspectj-LTW" options="-parameters" />
+      <module name="AOP-Aspectj-LTW-XML" options="" />
       <module name="my-aop" options="-parameters" />
     </option>
   </component>

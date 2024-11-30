@@ -5,22 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72563005-b53c-4203-82b6-66465a2fa973" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOP-Aspectj-LTW/src/main/java/org/lomoy/aop/ltw/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOP-Aspectj-LTW/src/main/java/org/lomoy/aop/ltw/MyAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOP-Aspectj-LTW/src/main/java/org/lomoy/aop/ltw/MyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOP-Aspectj-LTW/src/main/java/org/lomoy/aop/ltw/MyLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOP-Aspectj-LTW/src/main/java/org/lomoy/aop/ltw/MyLogAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOP-Aspectj-LTW/src/main/java/org/lomoy/aop/ltw/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOP-Aspectj-LTW/src/main/java/org/lomoy/aop/ltw/MyStaticClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOP-Aspectj-LTW/src/main/resources/META-INF/aop.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/src/main/java/com/lomoy/aop/MyServiceWithLombok.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CTW/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-LTW/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-LTW/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-LTW/src/main/java/org/example/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-LTW/src/test/java/org/example/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CTW/src/main/java/com/lomoy/aop/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/src/main/java/com/lomoy/aop/MyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/builddef.lst" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/builddef.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/com/lomoy/aop/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/com/lomoy/aop/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/com/lomoy/aop/MyConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/com/lomoy/aop/MyConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/com/lomoy/aop/MyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/com/lomoy/aop/MyController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/com/lomoy/aop/MyLog.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/com/lomoy/aop/MyLog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/com/lomoy/aop/MyLogAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/com/lomoy/aop/MyLogAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/com/lomoy/aop/MyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/com/lomoy/aop/MyService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/com/lomoy/aop/MyStaticClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/classes/com/lomoy/aop/MyStaticClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-CTW/target/my-aop-2.6.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-LTW/target/AOP-Aspectj-LTW-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-LTW/target/AOP-Aspectj-LTW-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-LTW/target/classes/org/lomoy/aop/ltw/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-LTW/target/classes/org/lomoy/aop/ltw/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-LTW/target/classes/org/lomoy/aop/ltw/MyAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-LTW/target/classes/org/lomoy/aop/ltw/MyAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-LTW/target/classes/org/lomoy/aop/ltw/MyLog.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-LTW/target/classes/org/lomoy/aop/ltw/MyLog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-LTW/target/classes/org/lomoy/aop/ltw/MyLogAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-LTW/target/classes/org/lomoy/aop/ltw/MyLogAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-LTW/target/classes/org/lomoy/aop/ltw/MyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-LTW/target/classes/org/lomoy/aop/ltw/MyService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP-Aspectj-LTW/target/classes/org/lomoy/aop/ltw/MyStaticClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP-Aspectj-LTW/target/classes/org/lomoy/aop/ltw/MyStaticClass.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,26 +55,27 @@
     </option>
   </component>
   <component name="ProjectId" id="2pOxLcQ0WIG1rqy5KwQNbQIt2pW" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "/Users/lomo/Documents/aop-demo/AOP-Aspectj-LTW/src/main",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.28653628"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lomo/Documents/aop-demo/AOP-Aspectj-LTW/src/main&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.28653628&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/AOP-Aspectj-LTW/src/main" />
@@ -78,14 +86,36 @@
       <recent name="org.lomo.aop.ltw" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.AspectJ LTW XML">
+    <configuration name="AspectJ LTW XML" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="org.lomoy.aop.ltw.Main" />
-      <module name="AOP-Aspectj-LTW" />
-      <option name="VM_PARAMETERS" value="-javaagent:$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.9.20/aspectjweaver-1.9.20.jar" />
+      <module name="AOP-Aspectj-LTW-XML" />
+      <option name="VM_PARAMETERS" value="-javaagent:$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.9.20/aspectjweaver-1.9.20.jar -Daj.weaving.verbose=true" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.lomoy.aop.ltw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LTW-XML" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.lomoy.aop.ltw.Main" />
+      <module name="AOP-Aspectj-LTW-XML" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.lomoy.aop.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.lomoy.aop.Main" />
+      <module name="my-aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lomoy.aop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,13 +131,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="aop-aspectj-ctw [clean,install]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/AOP-Aspectj-CTW" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.LTW-XML" />
+      <item itemvalue="Application.com.lomoy.aop.Main" />
+      <item itemvalue="Application.AspectJ LTW XML" />
       <item itemvalue="JUnit.All in AOP-Aspectj-CTW" />
+      <item itemvalue="Maven.aop-aspectj-ctw [clean,install]" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.AspectJ LTW XML" />
+        <item itemvalue="Application.com.lomoy.aop.Main" />
         <item itemvalue="JUnit.All in AOP-Aspectj-CTW" />
       </list>
     </recent_temporary>

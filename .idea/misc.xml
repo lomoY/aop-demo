@@ -7,7 +7,13 @@
         <option value="$PROJECT_DIR$/AOP-Aspectj-CWT/pom.xml" />
         <option value="$PROJECT_DIR$/AOP-Aspectj-LTW/pom.xml" />
         <option value="$PROJECT_DIR$/AOP-Aspectj-CTW/pom.xml" />
+        <option value="$PROJECT_DIR$/AOP-Aspectj-LTW-XML/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/AOP-Aspectj-LTW-XML/AOP-AspectJ-LTW-Prog/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="11" project-jdk-type="JavaSDK">

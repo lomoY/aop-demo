@@ -1,8 +1,0 @@
-<aspectj>
-    <weaver options="-verbose -showWeaveInfo">
-        <include within="com.lomoy.aop.ltw..*" />
-    </weaver>
-    <aspects>
-        <aspect name="org.lomoy.aop.ltw.MyLogAspect" />
-    </aspects>
-</aspectj>
