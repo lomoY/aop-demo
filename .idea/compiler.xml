@@ -21,13 +21,14 @@
     <bytecodeTargetLevel>
       <module name="AOP-Aspectj-CTW" target="1.8" />
       <module name="AOP-AspectJ-LTW-Prog" target="11" />
+      <module name="AOP-Aspectj-LTW-Prog" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="AOP-AspectJ-LTW-Prog" options="-parameters" />
       <module name="AOP-Aspectj-CTW" options="-parameters" />
-      <module name="AOP-Aspectj-LTW-XML" options="" />
+      <module name="AOP-Aspectj-LTW" options="" />
       <module name="my-aop" options="-parameters" />
     </option>
   </component>

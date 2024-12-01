@@ -3,8 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/AOP-Aspectj-CTW/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/AOP-Aspectj-CTW/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/AOP-Aspectj-LTW-XML/AOP-AspectJ-LTW-Prog/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/AOP-Aspectj-LTW-XML/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/AOP-Aspectj-LTW-XML/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AOP-Aspectj-LTW/AOP-AspectJ-LTW-Prog/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AOP-Aspectj-LTW/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AOP-Aspectj-LTW/src/main/resources" charset="UTF-8" />
   </component>
 </project>
